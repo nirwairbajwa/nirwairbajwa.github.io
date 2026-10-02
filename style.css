@@ -74,3 +74,5 @@ footer b{color:#fff}
 @media (max-width:560px){.intro{flex-direction:column;text-align:center}}
 .topbar .wrap,.navbar .wrap{max-width:980px}
 .brand b{color:#fff}
+.logos .eg{width:58px;height:58px;box-sizing:border-box;padding:6px 5px;border-radius:50%;background:#fff;border:2px solid var(--navy);object-fit:contain}
+.logos .exp{height:28px}
